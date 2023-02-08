@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 8122466914837956669}
   - component: {fileID: 933211670}
   - component: {fileID: 933211671}
+  - component: {fileID: -2168215875673119102}
   m_Layer: 0
   m_Name: "\u773C\u7403"
   m_TagString: Untagged
@@ -222,3 +223,19 @@ MonoBehaviour:
   highlightOnHover: 1
   hideHighlight: []
   hoverPriority: 0
+--- !u!114 &-2168215875673119102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3972993475350652120}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5884a73c024a42745b1cd619a62d19b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pictureObject: {fileID: 2481262649191278719, guid: b0444f2edac463f43abbf070e0f71cb0, type: 3}
+  effectObject: {fileID: 100000, guid: bc98890f6028f444eaa7789bde5e2eeb, type: 3}
+  soundHit: {fileID: 0}
+  pictureAngle: {x: 0, y: -135, z: 0}
