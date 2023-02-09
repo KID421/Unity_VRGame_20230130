@@ -134,7 +134,7 @@ MonoBehaviour:
   catchingSpeedThreshold: -1
   releaseVelocityStyle: 1
   releaseVelocityTimeOffset: -0.011
-  scaleReleaseVelocity: 1.1
+  scaleReleaseVelocity: 1.5
   scaleReleaseVelocityThreshold: -1
   scaleReleaseVelocityCurve:
     serializedVersion: 2
